@@ -4,7 +4,7 @@ A simple Tic Tac Toe game built on Unity3D. Get 3 'X's or 'O's in a row or colum
 Music credit: https://www.youtube.com/watch?v=niUaRPODJRs
 
 
-Single Player Game, however works only if you select circle for now(Cannot figure out why)
+Single Player Game
 https://drive.google.com/open?id=1EofSMciYnF6gBWStQt13_zGXY0k8LWCs
 
 Multi Player Game
